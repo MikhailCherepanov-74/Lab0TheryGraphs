@@ -1,0 +1,3 @@
+/home/mikhail/Разработка/Clion/Ther_graph_Lab0/cmake-build-debug/CMakeFiles/Ther_graph_Lab0.dir
+/home/mikhail/Разработка/Clion/Ther_graph_Lab0/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mikhail/Разработка/Clion/Ther_graph_Lab0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
